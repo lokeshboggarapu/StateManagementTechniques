@@ -1,0 +1,5 @@
+c:\users\lokesh\documents\visual studio 2012\Projects\SessionDemo\SessionDemo\bin\SessionDemo.dll
+c:\users\lokesh\documents\visual studio 2012\Projects\SessionDemo\SessionDemo\bin\SessionDemo.pdb
+c:\users\lokesh\documents\visual studio 2012\Projects\SessionDemo\SessionDemo\obj\Debug\SessionDemo.csprojResolveAssemblyReference.cache
+c:\users\lokesh\documents\visual studio 2012\Projects\SessionDemo\SessionDemo\obj\Debug\SessionDemo.dll
+c:\users\lokesh\documents\visual studio 2012\Projects\SessionDemo\SessionDemo\obj\Debug\SessionDemo.pdb
